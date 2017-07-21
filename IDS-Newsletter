@@ -1,0 +1,30 @@
+.backgroundColor--gray02 {
+  background-color: #6b6c72; }
+  ![image](https://github.intuit.com/raw/mcanul/IDS-Gallery-Images/master/IDSWhite-BlueSquare.png?token=AAAocQ6Nj3yriJMv_1NI7ty31LvvVp7iks5ZeoHFwA%3D%3D)
+  <h1 className="heading-1">Intuit Design System Newsletter</h1>
+  <p>
+  Before/After Images (Visual representation of clarification of state of IDS)
+  </p>
+  <h2 className="heading-2">What's New?</h1>
+  <p>
+  ‘Consumable Now’ List (as caption or accompanying text)
+  </p>
+  <h2 className="heading-2">What's On-Hand?</h1>
+  <p>
+  Typescales
+  Loading graphics
+  CSS Guidelines
+  Design Data
+  Text fields?
+  Headers?
+  </p>
+  <h2 className="heading-2">Where Is It?</h1>
+  <p>
+  •	Consumable resources: New Gallery Style Source
+  • Training Materials:
+    • Typescale tutorial videos
+    • Marianne’s 3 typescales videos
+    • Ricky’s vids (next week)
+  • Details: Release notes
+  • For help Slack #Ask-IDS
+  </p>
